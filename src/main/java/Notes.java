@@ -46,7 +46,7 @@ class Notes {
 
 		//var.indexOf(value), var.lastIndexOf(value) - return the first/last index of teh value in the given variable
 
-		System.out.println(word.indexOf("el")); //multiple characters, the index returned is the index of the first character
+		System.out.println(word.lastIndexOf("l")); //multiple characters, the index returned is the index of the first character
 	
 		//var.length() - has no arguments - not providing anything in the brackets
 		//returns the length of the string
